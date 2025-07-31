@@ -53,8 +53,6 @@ Gap   Result
 
 As a result, arrays of all sizes fall through to a final pass of a unique Insertion Sort variant that sorts quickly by reusing `gap` in a similar context to prevent subtraction operations in comparisons.
 
-Detailed benchmark results are coming soon.
-
 In conclusion, the unstable variant of GhostSort provides performance enhancements as an ideal alternative to all Shell Sort variants in all sorting scenarios.
 
 ---
